@@ -23,7 +23,6 @@
 > 整体产品线包括：
 
 - 门户Portal
-
 - 用户端
   - luckyMom 用户app
   - luckyMom 医生端app
@@ -44,6 +43,14 @@
   - 心脉
   - 安测
 - **数据开放平台（区域数据上报、数据开放平台）**
+
+!> 数据检测的设备
+
+
+
+![](http://img.susense.cn/20201013173416.png)![](http://img.susense.cn/20201013173805.png)![](http://img.susense.cn/20201013173906.png)![](http://img.susense.cn/20201013173947.png)![](http://img.susense.cn/20201013174038.png)![](http://img.susense.cn/20201013174117.png)
+
+<img src="http://img.susense.cn/1-20031311441DG.jpg" style="zoom:67%;" />
 
 ### 版本情况
 
